@@ -40,11 +40,11 @@ public class BilletedeAvion {
 
        
        while(!nuevaconsulta) {
-        System.out.println("¡Hola!");  
+        System.out.println("Â¡Hola!");  
 
   
 
-        System.out.println("¿Cuanto le cuesta el viaje?");  
+        System.out.println("Â¿Cuanto le cuesta el viaje?");  
 
   
 
@@ -52,7 +52,7 @@ public class BilletedeAvion {
 
   
 
-        System.out.println("¿Desea elegir asiento?(Pulse 1 para si o 0 para no)");  
+        System.out.println("Â¿Desea elegir asiento?(Pulse 1 para si o 0 para no)");  
 
   
 
@@ -60,7 +60,7 @@ public class BilletedeAvion {
 
   
 
-        System.out.println("¿Lleva equipaje?(Pulse 1 para si, 0 para no)");  
+        System.out.println("Â¿Lleva equipaje?(Pulse 1 para si, 0 para no)");  
 
   
 
@@ -68,7 +68,7 @@ public class BilletedeAvion {
 
   
 
-        System.out.println("¿Tiene menos de 14 años? (Pulse 1 para si, 0 para no)");  
+        System.out.println("Â¿Tiene menos de 14 aÃ±os? (Pulse 1 para si, 0 para no)");  
 
   
 
@@ -76,7 +76,7 @@ public class BilletedeAvion {
 
   
 
-        System.out.println("¿Va a querer una comida en el vuelo? (Pulse 1 para si, 0 para no)");  
+        System.out.println("Â¿Va a querer una comida en el vuelo? (Pulse 1 para si, 0 para no)");  
 
   
 
@@ -84,7 +84,7 @@ public class BilletedeAvion {
 
   
 
-        System.out.println("¿Es mayor de 60 años?(Pulse 1 para si, 0 para no)");  
+        System.out.println("Â¿Es mayor de 60 aÃ±os?(Pulse 1 para si, 0 para no)");  
 
   
 
@@ -92,7 +92,7 @@ public class BilletedeAvion {
 
   
 
-        System.out.println("¿Tiene la tajeta de `Viajero frecuente`?(Pulse 1 para si, 0 para no)");  
+        System.out.println("Â¿Tiene la tajeta de `Viajero frecuente`?(Pulse 1 para si, 0 para no)");  
 
   
 
@@ -148,7 +148,7 @@ public class BilletedeAvion {
 
   
 
-            viaje+=10;  
+            viaje+=30;  
 
   
 
@@ -160,7 +160,7 @@ public class BilletedeAvion {
 
   
 
-            viaje+=50;  
+            viaje+=60;  
 
   
 
